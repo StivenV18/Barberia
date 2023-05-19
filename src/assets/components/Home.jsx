@@ -1,6 +1,7 @@
 import Header from "../ayudas/Header"
 
 
+
 const Home = () => {
   return (
     <section>
